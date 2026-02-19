@@ -1,0 +1,13 @@
+- git init
+- git config
+- git add
+- git git reset # Revert added files
+- git reset --hard #Return deleted files
+- git commit
+- git log #commit history
+- git log --oneline
+- git reset HEAD~  #undo the last commit
+- git remote #git remote add origin https://github.com/elymbugua/Todo.git
+- git push
+- git pull
+
